@@ -1,2 +1,3 @@
 # instagram-phishing-attack
-For Educational purpose only
+
+Disclaimer :For Educational purpose only. I am not responsible if someone misuses my code.
